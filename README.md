@@ -3,6 +3,9 @@
 
 Welcome to this quick start guide for Docker beginners! This repository contains basic commands and instructions to help you install, set up, and start using Docker quickly.
 
+## Youtube video explanation 
+Link - https://youtu.be/qHVvBYIeydQ
+
 ## What You Will Find Here
 - Installation instructions for Linux and general info for Windows/macOS
 - Explanation of Docker components
